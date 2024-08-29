@@ -6,7 +6,7 @@
 // @author       hamsolo474
 // @match        https://wahapedia.ru/*/datasheets.html
 // @grant        none
-// @licence      MIT; https://opensource.org/license/MIT
+// @license      MIT; https://opensource.org/license/MIT
 // ==/UserScript==
 
 (function() {
