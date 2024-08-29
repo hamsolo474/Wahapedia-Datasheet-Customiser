@@ -10,7 +10,7 @@
 
 (function() {
     'use strict';
-    let step = 1; //How far to move up and down
+    let step = 2; //How far to move up and down
 
     function up(div){
         let previousDiv = div.previousElementSibling;
